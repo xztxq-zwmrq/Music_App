@@ -1,0 +1,72 @@
+{
+  "id": "2535768",
+  "name": "网易云",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14545691",
+      "name": "播放",
+      "font_class": "zanting",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8908473",
+      "name": "随机播放",
+      "font_class": "suijibofang",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "20808356",
+      "name": "循环播放",
+      "font_class": "xunhuanbofang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "3057296",
+      "name": "顺序播放",
+      "font_class": "shunxubofang",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "1750924",
+      "name": "上一首",
+      "font_class": "xiayishou",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13271892",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "14669383",
+      "name": "音乐列表",
+      "font_class": "yinleliebiao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "19686378",
+      "name": "向下",
+      "font_class": "arrow_down",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "21478629",
+      "name": "上一首",
+      "font_class": "shangyishou",
+      "unicode": "e765",
+      "unicode_decimal": 59237
+    }
+  ]
+}
